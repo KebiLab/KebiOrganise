@@ -1,0 +1,4 @@
+# KebiOrganise GUI - Зависимости
+# Установите командой: pip install -r requirements.txt
+
+PyQt5>=5.15.0
